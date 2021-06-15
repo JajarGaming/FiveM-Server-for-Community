@@ -1,9 +1,9 @@
-### 📠 [FiveM server created for the community][5mlink] 📠
+### :panda_face: [FiveM server created for the community][5mlink] :panda_face:
 
 
 ----
 
-This is a simple FiveM menu roleplay server I am making for the community, at the moment it's not finished. I won't be finishing it myself at the moment, but I'll just be giving it to you guys so you can finish it. To be honest the only things I did was put some resources together in one. Of course credit goes to all the people who made the scripts as I only made on of them.
+This is a simple FiveM menu roleplay server I am making for the community, at the moment it's not finished.
 
 
 **Credits:**
