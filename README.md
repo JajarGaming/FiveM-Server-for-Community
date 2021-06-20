@@ -3,7 +3,7 @@
 
 ----
 
-This is a simple FiveM menu roleplay server I am making for the community, at the moment it's not finished.
+This is a simple FiveM menu roleplay server I am making for the community, at the moment it's not finished. I haven't made any of these scripts, this is more of a script pack for beginners who don't know how to use/make  scripts.
 
 
 **Credits:**
